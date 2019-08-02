@@ -1,0 +1,14 @@
+userid,producid,action
+1456,345567,Browse
+1457,345589,Click
+1345,347896,AddToCart
+1333,342345,Purchase
+1366,348888,LogOut
+1451,345511,Browse
+1497,345111,Click
+1348,341111,AddToCart
+1321,342341,Purchase
+1361,347888,LogOut
+1345,347896,Purchase
+1333,342345,AddToCart
+1321,342341,AddToCart
